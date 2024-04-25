@@ -1,7 +1,7 @@
 clear
 set more off
-cd /Users/polinapogorelova/Desktop/vega
-log using sem13.log
+cd /Users/polinapogorelova/Desktop/smef
+log using sem10.log
 
 * SFA (Stochastic frontier analysis)
 use "/Users/polinapogorelova/Downloads/xtfrontier1.dta", clear
